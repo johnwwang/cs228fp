@@ -1,0 +1,4 @@
+*.zip
+data/
+embeddings/
+.ipynb_checkpoints/
