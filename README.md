@@ -1,1 +1,1 @@
-# CS228 Final Project
+# Manifold Experiments
